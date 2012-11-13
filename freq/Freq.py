@@ -1,4 +1,9 @@
-
+"""
+    Função que calcula a frequência de ocorrência de palavras.
+    Este função é não sensível ao caso. Ou seja, Palavra = palavra
+    @param input Uma string com a sentença já tokenizada
+    @return Um dicionário contendo os pares palavra - frequência de ocorrência
+"""
 def freq( input ):
     saida = ""
     if input != "":
