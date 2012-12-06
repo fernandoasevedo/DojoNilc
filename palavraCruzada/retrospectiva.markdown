@@ -1,3 +1,33 @@
+Problema
+--------
+
+#Definição
+Verificar se para uma dada sequência de palavras é possível monstar uma palavra Cruzadas.
+Para montagem desta foi empregado as seguintes restrições:
+- A entrada é dada por uma sequência de palavras
+- A primeira palavra deve obrigatóriamente ser usada na vertical da palavra cruzada
+- As demais palavras da entrada devem, em sequência, serem empregadas na horizontal e devem ter alguma letra comum com a palavra na vertical
+
+
+#Exemplo
+- Entrada: hoje dojo escola
+- Saída: True
+- Impressa:
+ H
+dOjo
+ J
+ Escola
+
+- Entrada: hoje dojo nilc
+- Saída: False
+
+#Incrementos
+- Decidimos fazer o código de impressão da palavra cruzadas
+
+Retrospectiva
+-----
+
+
 #:)
 
 - Veio mais pessoas do que na última vez+++
