@@ -1,5 +1,5 @@
-#Problema
---------
+##Problema
+
 
 #Definição
 Verificar se para uma dada sequência de palavras é possível monstar uma palavra Cruzadas.
@@ -23,6 +23,16 @@ dOjo
 
 #Incrementos
 - Decidimos fazer o código de impressão da palavra cruzadas
+
+
+##Participantes
+
+- Erick
+- Fernando Alva
+- Fernando Asevedo
+- Renata
+- Pedro
+
 
 #Retrospectiva
 -----
