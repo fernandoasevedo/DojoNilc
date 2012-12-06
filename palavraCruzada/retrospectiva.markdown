@@ -12,7 +12,7 @@ Para montagem desta foi empregado as seguintes restrições:
 #Exemplo
 - Entrada: hoje dojo escola
 - Saída: True
-- Impressa:
+- Impressão:
  H
 dOjo
  J
