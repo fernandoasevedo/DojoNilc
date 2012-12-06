@@ -1,7 +1,6 @@
 '''
 Created on 06/12/2012
 
-@author: fernando
 '''
 
 def palavraCruzada1( input ):
