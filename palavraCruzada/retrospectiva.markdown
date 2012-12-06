@@ -24,7 +24,7 @@ dOjo
 #Incrementos
 - Decidimos fazer o código de impressão da palavra cruzadas
 
-Retrospectiva
+#Retrospectiva
 -----
 
 
